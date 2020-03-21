@@ -1,2 +1,2 @@
 # first-dubbo
-简单的搭建Dubbo+Zookeeper环境，加入DubboAdmin管理页面，Hystrix服务熔断以及熔断管理页面，使用kryo高速序列化
+简单的搭建Dubbo+Zookeeper环境，加入DubboAdmin管理页面，Hystrix服务熔断以及熔断管理页面，使用kryo高速序列化，测试Dubbo轮询负载均衡，Zookeeper使用Docker容器实现3台集群
